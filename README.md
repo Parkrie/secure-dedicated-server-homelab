@@ -59,7 +59,7 @@ This design prevents an internet-facing service from having direct access to int
 
 The following diagram shows the simplified logical architecture used in the deployment.
 
-![Network Architecture](images/network-diagram.png)
+![Network Diagram](network-diagram.png)
 
 ---
 
