@@ -55,6 +55,12 @@ The purpose of segmentation was to isolate the externally exposed service from t
 
 This design prevents an internet-facing service from having direct access to internal systems.
 
+## Logical Architecture
+
+The following diagram shows the simplified logical architecture used in the deployment.
+
+![Network Architecture](images/network-diagram.png)
+
 ---
 
 ## VM Deployment
